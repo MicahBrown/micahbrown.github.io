@@ -45,6 +45,11 @@ main .bg-cover2 { opacity: 0.875; }
   font-weight: bold;
   font-size: 1.25rem;
 }
+.wrapper > .content > .tagline {
+  color: initial;
+  font-size: 1rem;
+  margin-top: 1.5rem;
+}
 
 
 .links { margin: 2rem 0; }
